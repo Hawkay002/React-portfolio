@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react"; 
 import { 
   Menu, X, Github, Linkedin, Mail, Twitter, 
   ExternalLink, Code2, Palette, Database, Smartphone 
